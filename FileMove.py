@@ -1,5 +1,5 @@
 import os
-
+'comment'
 source = str(input('enter full source directory (format: /home/adam/*.txt): '))
 path = str(input('enter full target directory (format: /home/adam/*.txt): '))
 extension = str(input('enter new file extension (format: .ext): '))
